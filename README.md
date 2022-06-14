@@ -21,7 +21,7 @@ After digging for a few days, I cannot really find a solution for **How to devel
 #### Short summary
 - A framework that can link external `.dll`(s) to the main application online easily.
 - For Grasshopper development, it allows us to link an external `dll`  to the loaded Grasshopper plugin in a way that: 
-  - **the external `dll` can be -independently- compiled and re-compiled without affecting the loaded Grasshopper plugin.**
+  - **the external `dll` can be _independently_ compiled and re-compiled without affecting the loaded Grasshopper plugin.**
 
 #### demo
 ![Demo Video](https://github.com/xarthurx/Grasshopper-MEF-demo/blob/main/demoMEF.gif)
