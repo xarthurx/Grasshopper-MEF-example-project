@@ -1,5 +1,5 @@
-<h1 align="center">Grasshopper-MEF-Demo</h1>
-A demo project for developing Grasshopper plugin with the MEF approach.
+<h1 align="center">Grasshopper-MEF-Example-Project</h1>
+An example project for developing Grasshopper plugin with the MEF approach.
 
 ## Why 
 - [Compiling .dll without restarting Rhino](https://discourse.mcneel.com/t/compiling-dll-without-restarting-rhino/93825)
