@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "pluginLoader": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿.vs
+pluginComputation/bin
+pluginComputation/obj
+pluginContract/bin
+pluginContract/obj
+pluginLoader/bin
+pluginLoader/obj
