@@ -35,3 +35,9 @@ The project has following 3 sub-projects:
 
 ### When a RESTART is needed:
 Once the `pluginLoader` is loaded in a Grasshopper session, changes made to the function body of any functions defined in `pluginContract`/`pluginComputation` do not require a restart. However, adding new functions (or change function names, return types, etc.) will require a hard **RESTART** of Rhino/Grasshopper.
+
+
+## **Hot Reload** in Visual Studio 2022
+The new [**Hot Reload**](https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/) functionality available in VS2022 achieves some of the goals this plugin tries to provide.
+
+I'm currently not sure how much are the two overlap. But if you're using VS2022, you're welcome to try out.
