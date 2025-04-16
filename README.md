@@ -1,6 +1,6 @@
 # NOTE
-As of 2025, MS has transit the `.NET Framework` to its new `.NET Core` series, and `hot reload` in VS2022 has all the functionality this repo provides.
-This repo will be put into archive.
+*As of 2025, MS has transit the `.NET Framework` to its new `.NET Core` series, and `hot reload` in VS2022 has all the functionality this repo provides.
+This repo will be put into archive.*
 
 
 <h1 align="center">Grasshopper-MEF-Example-Project</h1>
